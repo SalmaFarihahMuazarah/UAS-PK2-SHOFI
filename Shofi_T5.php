@@ -8,7 +8,7 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <link rel="stylesheet" href="css/style.css">
         <script type="text/javascript"></script>
-        <link rel="stylesheet" href="fm.js">
+        <link rel="stylesheet" href="js/fm.js">
     </head>
     <body>
         <div id="navmenu">
